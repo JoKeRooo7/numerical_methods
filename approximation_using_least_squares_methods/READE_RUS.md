@@ -7,13 +7,13 @@ $$ y = \alpha x + \beta $$
 
 ### Наклон:
 
-$$\alpha = \frac{{n \sum (x_i, y_i)- \sum x_i \sum y_i}}{{n \sum (x_i^2) - ( \sum x_i)^2}}$$
+$$ \alpha = \frac{{n \sum (x_i, y_i)- \sum x_i \sum y_i}}{{n \sum (x_i^2) - ( \sum x_i)^2}} $$
 
 
 
 ### Свободный член:
 
-$$\beta = \frac{{(\sum y_i - \alpha \sum x_i)}}{{n}} $$
+$$ \beta = \frac{{(\sum y_i - \alpha \sum x_i)}}{{n}} $$
 
 
 ### Уравнения в коде:
